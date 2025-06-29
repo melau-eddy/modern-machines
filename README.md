@@ -7,7 +7,7 @@ It uses flutter framework for the development of the UI.
 
 Here is how to get started in cloning and running the project successfully.
 
-            git clone https://github.com/Salvatore-droid/modern_machines
+            git clone https://github.com/melau-eddy/modern-machines.git
 
 After cloning the project successfully. Open with vscode or android studio.
 
